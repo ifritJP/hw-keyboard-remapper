@@ -1,0 +1,15 @@
+{
+    "Comments": [
+	"HID Code",
+	"modifier: LeftControl = 1,  LeftShift = 2,  LeftAlt = 4,  LeftGUI = 8",
+	"          LeftControl = 16, LeftShift = 32, LeftAlt = 64, LeftGUI = 128",
+	"alnum: A-Z = 4-29,  1-9,0 = 30-39",
+	"arrow: right,left,down,up = 79-82",
+	" others: execute the next command: sudo ./convkey.raspi -mode scan"
+    ],
+    "InputKeyboardName": "",
+    "SwitchKeys": [
+    ],
+    "ConvKeyMap": {
+    }
+}

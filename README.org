@@ -1,0 +1,10 @@
+# -*- coding:utf-8 -*-
+#+AUTHOR: ifritJP
+#+STARTUP: nofold
+#+OPTIONS: ^:{}
+
+* hw-keyboard-remapper
+
+hw-keyboard-remapper is key remapper independent the OS.
+
+https://ifritjp.github.io/blog2/public/posts/2022/2022-01-10-hw-keyboard-remapper/
