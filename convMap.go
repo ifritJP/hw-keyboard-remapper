@@ -9,7 +9,7 @@ type Code2HidCode struct {
 	code2HidCode map[uint8]uint8
 	// HID の remap コード
 	remapHIDCode map[uint8]uint8
-	// 処理を終了させるキーキーケンス
+	// 処理を終了させるキーシーケンス
 	exitKeySequence []uint8
 	// 現在の キーシーケンスの位置
 	keySequencePos     int
